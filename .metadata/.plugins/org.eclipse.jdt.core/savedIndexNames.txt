@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+/Users/andrewlachin/Desktop/Labs/.metadata/.plugins/org.eclipse.jdt.core
+3927879410.index
+2836882721.index
+3073556099.index
+1849621623.index
+1296052333.index
+4204674617.index
+1578213993.index
+590298697.index
+1415489571.index
